@@ -1,0 +1,73 @@
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+header{
+    width: 80%;
+    height: 300px;
+    margin-left: 80px;
+	color:black;
+	font-size: 20px;
+	text-align:left;
+   border-style: solid;
+   background-image: url(https://images.theconversation.com/files/293702/original/file-20190924-54775-1a5nssg.jpg?ixlib=rb-1.1.0&rect=14%2C0%2C3255%2C1627&q=45&auto=format&w=1356&h=668&fit=crop);
+   align-content: center;
+}
+
+nav {
+    width: 80%;
+    height: 100px;
+    background-color: red;
+    align-content: center;
+    margin-left: 80px;
+   }
+
+nav li {
+    list-style: none;
+    display: inline-block;
+    float: left;
+    line-height: 100px;
+    }
+
+
+
+
+li a {
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial;
+    color: black;
+    padding:0 20px ;
+    }
+    .flex{
+      display: flex;
+    
+    }
+    #id1{
+        width: 10;
+       margin-right: 15%;
+       margin-left: 5%;
+    }
+
+    #id2{
+     width: 40;
+  margin-left: 10%;
+   margin-right:10%;
+    }
+ #id3{
+    margin-right: 15%;
+    margin-left: 5%;
+ }
+   #id4{
+    margin-right: 5%;
+ }
+ #id5{
+    margin-right: 5%;
+    margin-left: 5%;
+     text-align:justify;
+    border-left: 1px solid;
+    border-color:red;
+ }
+ footer{
+    text-align: center;
+ }
